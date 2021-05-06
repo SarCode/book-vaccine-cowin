@@ -3,3 +3,7 @@
 Just download the exe and run it, if you face any issues google it. 
 
 If still facing issues then open an issue.
+
+
+
+Based on program by [https://github.com/pallupz]Pallupz
