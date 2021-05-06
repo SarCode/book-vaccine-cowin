@@ -6,4 +6,4 @@ If still facing issues then open an issue.
 
 
 
-Based on program by [https://github.com/pallupz]Pallupz
+Based on program by [Pallupz](https://github.com/pallupz)
